@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 1, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Poteet
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used branching statements and functions to create a Currency Calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://indeliblerock.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to use selection statements such as if/else and switch statements.
+2. We learned how to create specific functions that would run several lines of code when called using a button. 
+3. We learned how to read values from textboxes and dropdown menus using value.
 
